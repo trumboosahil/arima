@@ -11,4 +11,10 @@ It removes the trend and makes it stationary. by doing diference (first) t+1 -t 
 
 #AR - auto regressive
 
+##using Air Quality Milan ARIMA
+
+##Kaggle dataset
+
+kaggle/input/air-quality-in-milan-summer-2020/aq_milan_summer_2020.csv
+
 
